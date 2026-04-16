@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Main class for the Recipe Suggester application
 public class RecipeSuggester {
 
     private static final String API_URL = "https://www.themealdb.com/api/json/v1/1/filter.php?i=";
