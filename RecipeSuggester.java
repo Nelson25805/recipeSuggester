@@ -47,6 +47,7 @@ public class RecipeSuggester {
         }
     }
 
+    // Method to search for recipes based on user input
     private static void searchForRecipes(Scanner scanner) {
         boolean validIngredientFound = false;
 
