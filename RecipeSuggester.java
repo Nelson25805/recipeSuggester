@@ -86,6 +86,7 @@ public class RecipeSuggester {
         }
     }
 
+    // Method to send an HTTP GET request and return the response as a string
     private static String sendHttpRequest(String urlString) throws Exception {
         URI uri = new URI(urlString);
         URL url = uri.toURL();
