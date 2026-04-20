@@ -109,7 +109,8 @@ public class RecipeSuggester {
         return output.toString();
     }
 
-    // Method to display the list of recipes and return a list of recipe names and IDs
+    // Method to display the list of recipes and return a list of recipe names and
+    // IDs
     private static List<String[]> displayRecipes(String jsonResponse) {
         System.out.println("Recipes that can be made with the given ingredient:");
         String[] meals = jsonResponse.split("\"strMeal\":\"");
@@ -124,6 +125,7 @@ public class RecipeSuggester {
         return recipes;
     }
 
+    // Method to prompt the user for recipe selection and handle their choice
     private static void promptRecipeSelection(List<String[]> recipes, Scanner scanner) {
         while (true) {
             System.out.println("\nWhat would you like to do?");
