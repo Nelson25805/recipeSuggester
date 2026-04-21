@@ -149,6 +149,7 @@ public class RecipeSuggester {
         }
     }
 
+    // Method to handle the user's recipe selection and fetch details for the selected recipe
     private static void selectRecipe(List<String[]> recipes, Scanner scanner) {
         int choice;
 
