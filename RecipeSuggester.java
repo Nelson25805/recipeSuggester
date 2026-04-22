@@ -149,7 +149,8 @@ public class RecipeSuggester {
         }
     }
 
-    // Method to handle the user's recipe selection and fetch details for the selected recipe
+    // Method to handle the user's recipe selection and fetch details for the
+    // selected recipe
     private static void selectRecipe(List<String[]> recipes, Scanner scanner) {
         int choice;
 
@@ -174,6 +175,8 @@ public class RecipeSuggester {
         fetchRecipeDetails(selectedRecipe[1], scanner);
     }
 
+    // Method to fetch and display details for the selected recipe, and offer to
+    // save it to a file
     private static void fetchRecipeDetails(String recipeId, Scanner scanner) {
         System.out.println("Fetching details for the selected recipe...");
 
