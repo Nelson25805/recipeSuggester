@@ -222,6 +222,7 @@ public class RecipeSuggester {
         }
     }
 
+    // Method to format the instructions by cleaning up escape characters and adding numbering
     private static String formatInstructions(String instructions) {
         String cleanedInstructions = instructions
                 .replace("\\r\\n", "\n")
