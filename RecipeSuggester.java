@@ -222,7 +222,8 @@ public class RecipeSuggester {
         }
     }
 
-    // Method to format the instructions by cleaning up escape characters and adding numbering
+    // Method to format the instructions by cleaning up escape characters and adding
+    // numbering
     private static String formatInstructions(String instructions) {
         String cleanedInstructions = instructions
                 .replace("\\r\\n", "\n")
@@ -256,6 +257,8 @@ public class RecipeSuggester {
         return numberedInstructions.toString().trim();
     }
 
+    // Method to prompt the user to save the recipe to a file and handle the file
+    // writing
     private static void saveRecipeToFile(String recipeName, String instructions, List<String> ingredients,
             String thumbnailUrl, Scanner scanner) {
         System.out.println("\nWould you like to save this recipe for later? (yes/no)");
