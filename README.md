@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nelson25805/youtube-downloader">
+  <a href="https://github.com/Nelson25805/recipeSuggester">
     <img src="GithubImages/logo.png" alt="Logo" width="200" height="200">
   </a>
 
