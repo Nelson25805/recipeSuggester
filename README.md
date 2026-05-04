@@ -23,7 +23,7 @@
   <p align="center">
     A simple desktop application for downloading YouTube videos or audio files.
     <br />
-    <a href="https://github.com/Nelson25805/youtube-downloader"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Nelson25805/recipeSuggester"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Nelson25805/youtube-downloader">View Demo</a>
