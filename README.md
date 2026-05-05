@@ -26,7 +26,7 @@
     <a href="https://github.com/Nelson25805/recipeSuggester"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Nelson25805/youtube-downloader">View Demo</a>
+    <a href="https://github.com/Nelson25805/recipeSuggester">View Demo</a>
     &middot;
     <a href="https://github.com/Nelson25805/youtube-downloader/issues/new?labels=bug">Report Bug</a>
     &middot;
