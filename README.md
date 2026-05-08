@@ -105,7 +105,7 @@ You can run the application in two ways:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Nelson25805/youtube-downloader.git
+   git clone https://github.com/Nelson25805/recipeSuggester.git
 If using the executable version, skip to Step 6.
 Install Python:
 https://www.python.org/downloads/
