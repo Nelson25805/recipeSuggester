@@ -164,7 +164,7 @@ Contact
 
 Nelson McFadyen - Nelson25805@hotmail.com
 
-Project Link: https://github.com/Nelson25805/youtube-downloader
+Project Link: https://github.com/Nelson25805/recipeSuggester
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- MARKDOWN LINKS -->
 
