@@ -21,7 +21,7 @@
 <h3 align="center">Recipe Suggester</h3>
 
   <p align="center">
-    A simple desktop application for downloading YouTube videos or audio files.
+    A simple java application to receive recipe's for a multitude of recipes depending on the ingredients available.
     <br />
     <a href="https://github.com/Nelson25805/recipeSuggester"><strong>Explore the docs »</strong></a>
     <br />
