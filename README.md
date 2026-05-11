@@ -61,21 +61,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Project Name Screen Shot][project-screenshot]
+![Recipe Suggester Screenshot][project-screenshot]
 
-The **Python YouTube Downloader** is a lightweight desktop application that allows users to download YouTube content as either video (MP4) or audio (MP3) files through a simple graphical interface.
+Recipe Suggester is a Java-based console application that lets users search for recipes by ingredient using [TheMealDB](https://www.themealdb.com/) API.
 
-Built using **Tkinter** and **yt-dlp**, the application focuses on ease of use while providing reliable media downloading and automatic format conversion.
+The app allows you to:
+- search for recipes by entering a main ingredient
+- view recipe details, ingredients, and instructions
+- save recipes locally as text files
+- browse recipes through a simple menu-driven interface
 
-### Key features
-- 🎬 Download YouTube videos in MP4 format.
-- 🎵 Extract audio and convert directly to MP3.
-- 📁 Choose custom download destination folders.
-- ⚡ Background threaded downloads (UI stays responsive).
-- 🔄 Automatic FFmpeg integration for merging and conversion.
-- 🖥️ Simple cross-platform desktop GUI.
-
-This project is intended for educational and personal use, demonstrating GUI development, threading, and media processing in Python.
+This project is a good example of working with:
+- HTTP requests
+- JSON response parsing
+- file saving
+- interactive console input
+- basic Java application structure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
