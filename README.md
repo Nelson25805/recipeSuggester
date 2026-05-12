@@ -80,16 +80,14 @@ This project is a good example of working with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Built With
 
 | Badge | Description |
 |:-----:|-------------|
-| [![Python](GithubImages/pythonShield.svg)][Python-url] | Core programming language. |
-| [![Tkinter](GithubImages/tkinterShield.svg)][Tkinter-url] | Desktop GUI framework. |
-| [![yt-dlp](GithubImages/ytdlpShield.svg)][ytdlp-url] | Media downloading engine. |
-| [![FFmpeg](GithubImages/ffmpegShield.svg)][ffmpeg-url] | Audio/video processing and conversion. |
-
+| [![Java](GithubImages/javaShield.svg)][java-url] | Core programming language |
+| [![TheMealDB](GithubImages/theMealDBShield.svg)][themealdb-url] | Recipe data source |
+| [![HTTP](GithubImages/httpShield.svg)][http-url] | API communication |
+| [![File I/O](GithubImages/fileIOShield.svg)][fileio-url] | Saving recipes locally |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
