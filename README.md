@@ -95,12 +95,15 @@ This project is a good example of working with:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can run the application in two ways:
+Follow these steps to run the project locally.
 
-1) Run the packaged executable (.exe)  
-2) Run the Python script manually
+### Prerequisites
 
-## Installation
+- Java JDK installed
+- Internet connection
+- A terminal or command prompt
+
+### Installation
 
 1. Clone the repo
    ```sh
