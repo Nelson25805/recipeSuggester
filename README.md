@@ -105,23 +105,20 @@ Follow these steps to run the project locally.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
    ```sh
    git clone https://github.com/Nelson25805/recipeSuggester.git
-If using the executable version, skip to Step 6.
-Install Python:
-https://www.python.org/downloads/
+Open the project folder
 
-Install required dependencies:
+Compile the program
 
-pip install -r requirements.txt
-Install FFmpeg and ensure it is added to your system PATH:
-https://ffmpeg.org/download.html
+javac RecipeSuggester.java
 
-Run the application:
+Run the application
 
-python main.py
+java RecipeSuggester
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- USAGE -->
+
 Usage
 Main Downloader Window
 
