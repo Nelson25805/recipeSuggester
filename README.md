@@ -119,23 +119,24 @@ Run the application
 java RecipeSuggester
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- USAGE -->
 
-Usage
-Main Downloader Window
+## Usage
 
-Paste a YouTube URL.
-Select a destination folder.
-Choose output format (MP3 or MP4).
-Click Download.
+When the application starts, you will see a main menu with these options:
 
-The application will automatically download and convert the media.
+Search for recipes by ingredient
+Exit
 
-Audio Conversion (MP3)
+To search for a recipe:
 
-When MP3 is selected:
+choose option 1
+enter an ingredient such as chicken, rice, or pasta
+browse the matching recipes returned by TheMealDB
+select a recipe to view ingredients and instructions
+choose whether to save the recipe to a local text file
 
-Audio is extracted using yt-dlp.
-FFmpeg converts the file automatically to MP3 format.
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- CONTRIBUTING -->
+Saved recipes are stored in a Recipes folder in the project directory.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- FEATURES -->
 
 ## Contributing
 
