@@ -84,7 +84,7 @@ This project is a good example of working with:
 
 | Badge | Description |
 |:-----:|-------------|
-| [![Java](GithubImages/javaShield.svg)][java-url] | Core programming language |
+| [![Java](GithubImages/javaShield.svg)][Java-url] | Core programming language |
 | [![TheMealDB](GithubImages/theMealDBShield.svg)][themealdb-url] | Recipe data source |
 | [![HTTP](GithubImages/httpShield.svg)][http-url] | API communication |
 | [![File I/O](GithubImages/fileIOShield.svg)][fileio-url] | Saving recipes locally |
@@ -194,11 +194,12 @@ Project Link: https://github.com/Nelson25805/recipeSuggester
 [project-screenshot5]: GithubImages/envExample.png
 
 
-[Ruby-url]: https://www.ruby-lang.org/en/downloads/
+[Java-url]: https://www.java.com/en/download/manual.jsp
 [GTK3-url]: https://www.gtk.org/
 [SQLite3-url]: https://www.sqlite.org/download.html
 [OpenSSL-url]: https://openssl-library.org/source/
 [Bcrypt-url]: https://rubygems.org/gems/bcrypt/versions/3.1.12?locale=en
+
 
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Tkinter]: https://img.shields.io/badge/Tkinter-8.6-green
