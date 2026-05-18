@@ -155,12 +155,12 @@ Open a Pull Request
   <img src="https://contrib.rocks/image?repo=Nelson25805/passwordManager" alt="contrib.rocks image" />
 </a>
 
-License
+## License
 
 Distributed under the project_license. See LICENSE.txt for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- CONTACT -->
-Contact
+## Contact
 
 Nelson McFadyen - Nelson25805@hotmail.com
 
